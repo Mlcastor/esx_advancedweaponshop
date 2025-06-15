@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Mlcastor/esx_advancedweaponshop/compare/v1.0.0...v1.1.0) (2025-06-15)
+
+
+### Features
+
+* **esx_advancedweaponshop:** migrate legacy resource into template skeleton ([7f53cfe](https://github.com/Mlcastor/esx_advancedweaponshop/commit/7f53cfeee5e0183ee96567c2062c2b42b4c4db8b))
+
 ## [1.0.0](https://github.com/Mlcastor/esx_resource_template/compare/v0.3.0...v1.0.0) (2025-06-15)
 
 
